@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJ9sSP/cKrLVEjXhjHdZI3bWcWDZdpzsYXskX5bB6mX7lj5EIixjyCPLY0GmrnWOD6g0wTQ+QuOEZVlhY5yxjQ==",
+  "success": true,
+  "projectFilePath": "D:\\POBRANE\\JA-kod-aplikacji-Jakub.Skoczylas\\input\\NegativeAlgoritmCS\\NegativeAlgoritmCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kubas\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\kubas\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\kubas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\kubas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\kubas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\bin\x64\Debug\net6.0-windows\NegativeAlgoritmCS.deps.json
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\bin\x64\Debug\net6.0-windows\NegativeAlgoritmCS.dll
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\bin\x64\Debug\net6.0-windows\NegativeAlgoritmCS.pdb
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\obj\x64\Debug\net6.0-windows\NegativeAlgoritmCS.csproj.AssemblyReference.cache
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\obj\x64\Debug\net6.0-windows\NegativeAlgoritmCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\obj\x64\Debug\net6.0-windows\NegativeAlgoritmCS.AssemblyInfoInputs.cache
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\obj\x64\Debug\net6.0-windows\NegativeAlgoritmCS.AssemblyInfo.cs
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\obj\x64\Debug\net6.0-windows\NegativeAlgoritmCS.csproj.CoreCompileInputs.cache
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\obj\x64\Debug\net6.0-windows\NegativeAlgoritmCS.dll
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\obj\x64\Debug\net6.0-windows\refint\NegativeAlgoritmCS.dll
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\obj\x64\Debug\net6.0-windows\NegativeAlgoritmCS.pdb
+D:\POBRANE\JA-kod-aplikacji-Jakub.Skoczylas\input\NegativeAlgoritmCS\obj\x64\Debug\net6.0-windows\ref\NegativeAlgoritmCS.dll
